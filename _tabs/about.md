@@ -1,9 +1,8 @@
 ---
-title: About
+# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
 
-its me
-
-<img src="https://avatars.githubusercontent.com/u/9167070?v=4" alt="" />
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
