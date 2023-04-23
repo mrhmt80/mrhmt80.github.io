@@ -22,9 +22,9 @@ Selamat Malam, Kali ini saya mau sharing mengenai materi Kuliah Konsep TI yang p
 
 | URL Materi                                                                                          | Judul     | 
 |----------------------------------------------------------------------------------------------------|-----------|
-| [https://#](https://#) | `Aljabar Bolean` |
-| [https://#](https://#)         | `Jarkom Dan Internet`  | 
-| [https://#](https://#)         | `Etika Profesi`  | 
-| [https://#](https://#)         | `Pengenalan Pusat Studi`  | 
-| [https://#](https://#)         | `Load Balance Virtualisasi`  |
-| [https://#](https://#)         | `Docker`  |  
+| [https://](https://) | `Aljabar Bolean` |
+| [https://](https://)         | `Jarkom Dan Internet`  | 
+| [https://](https://)         | `Etika Profesi`  | 
+| [https://](https://)         | `Pengenalan Pusat Studi`  | 
+| [https://](https://)         | `Load Balance Virtualisasi`  |
+| [https://](https://)         | `Docker`  |  
