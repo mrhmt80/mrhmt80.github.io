@@ -23,10 +23,8 @@ Selamat Malam, Kali ini saya mau sharing mengenai materi Kuliah Konsep TI yang p
 | URL Materi                                                                                          | Judul     | 
 |----------------------------------------------------------------------------------------------------|-----------|
 | <a href="https://drive.google.com/file/d/1k-JHR-l5ZfIqd3j1OqvV6AOOqinc-in7/view?usp=sharing" target="_blank">Download</a> | `Aljabar Bolean` |
-| <a href="https://drive.google.com/file/d/14tij0kYZ6e0xIfEObJONzFr4afHmYMLQ/view?usp=sharing" target="_blank">Download</a>
-         | `Jarkom Dan Internet`  | 
-| <a href="https://drive.google.com/file/d/1k_Jw_8nVf4A8XAZfyaoOt_KKLBoSs4rn/view?usp=sharing" target="_blank">Download</a>
-         | `Etika Profesi`  | 
-| <a href="https://drive.google.com/file/d/1f7AuBnLzLh1qsYljGSdPb9oadcyOI138/view" target="_blank">Download</a>         | `Pengenalan Pusat Studi Polinema`  | 
-| <a href="https://drive.google.com/file/d/1lS3c2t6VYa-BbPw0gzOoDd8BYjowkKM0/view?usp=sharing" target="_blank">Download</a>         | `Load Balance Virtualisasi`  |
+| <a href="https://drive.google.com/file/d/14tij0kYZ6e0xIfEObJONzFr4afHmYMLQ/view?usp=sharing" target="_blank">Download</a> | `Jarkom Dan Internet`  | 
+| <a href="https://drive.google.com/file/d/1k_Jw_8nVf4A8XAZfyaoOt_KKLBoSs4rn/view?usp=sharing" target="_blank">Download</a>| `Etika Profesi`  | 
+| <a href="https://drive.google.com/file/d/1f7AuBnLzLh1qsYljGSdPb9oadcyOI138/view" target="_blank">Download</a>| `Pengenalan Pusat Studi Polinema`  | 
+| <a href="https://drive.google.com/file/d/1lS3c2t6VYa-BbPw0gzOoDd8BYjowkKM0/view?usp=sharing" target="_blank">Download</a>| `Load Balance Virtualisasi`  |
 | <a href="#" target="#">Download</a>        | `Docker`  |  
