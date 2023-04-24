@@ -95,7 +95,6 @@ print(vikor.dataframe)
 
 ````
 
-
 # 4. Referensi
 - Suniantara, I Ketut & Suwardika, Gede. (2018). Penerapan Metode VIKOR pada Pengambilan Keputusan Seleksi Calon Penerima Beasiswa Bidikmisi Universitas Terbuka. INTENSIF. 2. 24. 10.29407/intensif.v2i1.11848. 
 - Arsyah, U. I., Nasution, A. R. ., Sweety, M. ., & Toar, M. J. . (2023). Sistem Pendukung Keputusan Penentuan Bayi Gizi Baik dan Buruk Metode VIKOR. Sistem Pendukung Keputusan Dengan Aplikasi, 2(1), 35–45. https://doi.org/10.55537/spk.v2i1.611
