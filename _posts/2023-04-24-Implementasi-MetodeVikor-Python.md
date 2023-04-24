@@ -9,10 +9,10 @@ comments: true
 math: true
 mermaid: true # diagram generation tool
 image:
-    src: https://miro.medium.com/v2/resize:fit:1024/0*4ty0Adbdg4dsVBo3.png
-    width: 1000 
-    height: 400
-    alt: halo
+    src: https://www.inixindo.id/wp-content/uploads/2022/03/python-programming-intro-870x520.jpg
+    width: 870 
+    height: 520
+    alt: Inixindo.id
 pin: false
 excerpt_separator: <!--more-->
 published: true
