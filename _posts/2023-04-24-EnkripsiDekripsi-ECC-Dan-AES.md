@@ -2,7 +2,7 @@
 title: Enkripsi Dekripsi ECC Dan AES Menggunakan Python
 author: mrhmt
 date: 2023-4-24 07:00:00 +/-
-categories: [Materi]
+categories: [coding]
 tags: [coding]
 toc: true # table of content
 comments: true 
