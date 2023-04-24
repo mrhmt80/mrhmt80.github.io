@@ -19,7 +19,8 @@ published: true
 ---
 
 # 1. Pengantar
-Metode Vikor ....
+Metode Vikor merupakan metode Multi-Criteria Decision Making (MCDM) yang dapat digunakan untuk
+menyeleksi lebih dari satu kriteria. Metode VIKOR berfokus dalam perangkingan dengan mengkompromi dari hasil alternatif dan kriteria yang bertentangan.
 
 <!--more-->
 # 2. Persiapkan 
